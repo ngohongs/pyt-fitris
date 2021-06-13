@@ -1,4 +1,5 @@
-####### BEFORE PLAYING #######
+# Fitris
+# BEFORE PLAYING
 
 install Python 3.6.9/3.7 - other version were not tested
 
@@ -8,11 +9,11 @@ install pygame - pip3 install pygame
 
 install numpy  - pip3 install numpy
 
-####### TO RUN #######
+# TO RUN
 
 cd \<directory of the game\>; python3 main.py
 
-####### Mac OS #######
+## Mac OS
 
 If game seems slow, run the game:
 
@@ -20,7 +21,7 @@ Right-click game icon (head of snake) -> Options -> Show in Finder -> Right-clic
 
 Resolution
 
-####### Windows #######
+## Windows 
 
 If python3 main.py does not run the game, try python main.py
 
