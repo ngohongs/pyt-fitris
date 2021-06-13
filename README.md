@@ -32,7 +32,7 @@ If python3 main.py does not run the game, try python main.py
 
 
 
-####### USED ASSETS #######
+# USED ASSETS
 
 https://www.fesliyanstudios.com/royalty-free-music/downloads-c/8-bit-music/6
 
