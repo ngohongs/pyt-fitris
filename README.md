@@ -1,4 +1,7 @@
 # Fitris
+
+https://user-images.githubusercontent.com/56195457/121937998-915d8a80-cd4b-11eb-877d-ad82ad13361f.mp4
+
 # BEFORE PLAYING
 
 install Python 3.6.9/3.7 - other version were not tested
